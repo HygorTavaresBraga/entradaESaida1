@@ -1,0 +1,16 @@
+C:\ProjetoSharp\Aula03\bin\Debug\net5.0\Aula03.exe
+C:\ProjetoSharp\Aula03\bin\Debug\net5.0\Aula03.deps.json
+C:\ProjetoSharp\Aula03\bin\Debug\net5.0\Aula03.runtimeconfig.json
+C:\ProjetoSharp\Aula03\bin\Debug\net5.0\Aula03.runtimeconfig.dev.json
+C:\ProjetoSharp\Aula03\bin\Debug\net5.0\Aula03.dll
+C:\ProjetoSharp\Aula03\bin\Debug\net5.0\Aula03.pdb
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.csproj.AssemblyReference.cache
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.AssemblyInfoInputs.cache
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.AssemblyInfo.cs
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.csproj.CoreCompileInputs.cache
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.dll
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\refint\Aula03.dll
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.pdb
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\Aula03.genruntimeconfig.cache
+C:\ProjetoSharp\Aula03\obj\Debug\net5.0\ref\Aula03.dll
